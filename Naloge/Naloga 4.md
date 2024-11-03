@@ -2,7 +2,7 @@
 
 ## 📑 Naloga 
 
-Za izdelavo te naloge uporabite datoteko *university_rank.csv*.
+Za izdelavo te naloge uporabite datoteko *university_rank.csv* (ustvarili ste jo v sklopu naloge 2).
 
 1. Naložite podatke iz datoteke v dataframe. Smiselno dopolnite manjkajoče podatke. Nato odstranite še vse kategorične podatke, saj boste za nadaljnje analize potrebovali samo številske podatke.
 2. Da dobite približen vpogled na koliko gruč bi bilo najbolj optimalno deliti instance uporabite hierarhično gručenje in izrišite dendrogram z maksimalno delitvijo na 4 nivoje.
