@@ -14,7 +14,7 @@
 - Naloga 2: Delo s podatki [1 točka]
 - Naloga 3: Vizualizacija podatkov [1 točka]
 - [Naloga 4: Gručenje](<Naloge/Naloga 4/Naloga 4.md>) [1 točka]
-- Naloga 5: Klasifikacija [1 točka]
+- [Naloga 5: Klasifikacija](<Naloge/Naloga 5/Naloga 5.md>) [1 točka]
 <br/><br/><br/>
 
 ## Projektna naloga
